@@ -1,0 +1,33 @@
+**Criar Repositório**
+git init 
+
+**Verificar se o repositótio foi criado**
+ls -al
+
+**Adicionar arquivos ao diretório
+git add primeiro_arquivo.py (nome do arquivo)
+
+**Salvar arquivos no diretório**
+git commit -m 'Primeiro Commit'
+
+OBS. CASO SEJA A PRIMEIRA VEZ QUE ESTÁ USANDO O GIT NO PC PODERA DAR UM ERRO. NESSE CASO É NECESSÁRIO FAZER A CONFIGURAÇÃO GIT
+
+**Configurando o git**
+git config --global user.name 'email cadastrado'
+git config --global user.name 'Nome'
+
+**Mostrar o Projeto Versionado**
+git log
+
+**Recuperar arquivos deletados**
+git status
+git restore primeiro_arquivo.py
+
+**Deletar repositório git
+rm -rf .git
+
+
+
+
+
+
