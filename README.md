@@ -4,4 +4,4 @@ Itens do Diretório
 
 1. Algoritmo Supervisionado
 
-    Algoritmo de Classificação Naive_Bayes
+    a) Algoritmo de Classificação Naive_Bayes
